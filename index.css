@@ -1,6 +1,6 @@
 :root{
     --colorRojo: #000000;
-    --ColorRojo_fondo: rgba(255, 0, 0);
+    --ColorRojo_fondo: rgb(9, 255, 0);
 }
 
 #Bloque_decorativo {
