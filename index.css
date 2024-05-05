@@ -1,6 +1,6 @@
 :root{
-    --colorRojo: #000000;
-    --ColorRojo_fondo: rgb(9, 255, 0);
+    --colorNegro: #000000;
+    --ColorRojo_fondo: rgb(255, 0, 0);
 }
 
 #Bloque_decorativo {
@@ -14,7 +14,7 @@
 #Barra_arriba_a {
     text-decoration: none;
     font-size: 30px;
-    color: var(--colorRojo);
+    color: var(--colorNegro);
     margin-right: auto;
     padding-left: 20px;
 }
